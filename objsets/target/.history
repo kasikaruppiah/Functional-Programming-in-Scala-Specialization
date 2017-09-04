@@ -1,0 +1,16 @@
+eclipse
+exit
+compile
+eclipse;3A;3A;3A
+compile
+run
+sbt
+test
+run
+compile
+test
+submit alagappan.k@husky.neu.edu lv6TtpIf5fersrLC
+exit
+compile
+test
+submit alagappan.k@husky.neu.edu bIvT2yJhaT4qlgDt
